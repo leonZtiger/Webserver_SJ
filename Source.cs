@@ -14,6 +14,7 @@ namespace Webserver_SJ
 
             Server server = new Server("127.0.0.1",80,1);
 
+            server.StartServer();
         }
     }
 }

@@ -1,0 +1,3 @@
+C:\Users\lby0530\Source\Repos\leonZtiger\Webserver_SJ\obj\Debug\Webserver_SJ.csproj.AssemblyReference.cache
+C:\Users\lby0530\Source\Repos\leonZtiger\Webserver_SJ\obj\Debug\Webserver_SJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\lby0530\Source\Repos\leonZtiger\Webserver_SJ\obj\Debug\Webserver_SJ.csproj.CoreCompileInputs.cache

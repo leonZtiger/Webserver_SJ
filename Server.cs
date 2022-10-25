@@ -20,7 +20,6 @@ namespace Webserver_SJ
 
             tcpListener = new TcpListener(IPAddress.Parse(ip),port);
 
-
         }
 
         public void StartServer()
